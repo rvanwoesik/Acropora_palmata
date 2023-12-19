@@ -1,4 +1,4 @@
-The data and R code will be uploaded when the manuscript has been accepted for publication.
+The data and R code assoiciated with Banister, Viehman, Schopmeyer, and van Woesik in PLOS ONE (2024).
 
 Manuscript:
-Optimal locations for Acropora palmata restoration are predicted by low chlorophyll-a and nutrient concentrations along the Florida reef tract
+Environmental predictors for the restoration of a critically endangered coral, <i>Acropora palmata</i>, along the Florida reef tract
